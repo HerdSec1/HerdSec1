@@ -1,14 +1,18 @@
 # **Breaking into Cyber Framework**
-## Golden Ticket criteria:
+## Summary:
 [1. Education](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#1-education)
+
 [2. Certifications](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#2-certifications)
+
 [3. Skills Development](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#3-skills-development)
+
 [4. Experience](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#4-experience)
+
 [5. Networking and Community Involvement](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#5-networking-and-community-involvement)
-[6. Continuous Learning](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#6-continuous-learning)
 
+[6. Continuous Learning](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#6-continuous-learning)  
 
-
+## Steps to Success:
 ### 1. **Education:**
 
    - **Bachelor's Degree:**
