@@ -1,4 +1,14 @@
 # **Breaking into Cyber Framework**
+## Golden Ticket criteria:
+[1. Education](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#1-education)
+[2. Certifications](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#2-certifications)
+[3. Skills Development](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#3-skills-development)
+[4. Experience](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#4-experience)
+[5. Networking and Community Involvement](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#5-networking-and-community-involvement)
+[6. Continuous Learning](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#6-continuous-learning)
+
+
+
 ### 1. **Education:**
 
    - **Bachelor's Degree:**
@@ -28,6 +38,8 @@
          - **Microsoft:** Microsoft Certified: Azure Security Engineer
          - **AWS:** AWS Certified Security
          - **Google:** Google Cloud Certified - Professional Security Engineer
+       
+   - **Note**: (A great resource for Cyber Security certifications is [Paul Jerimy's Cyber Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/))
 
 ### 3. **Skills Development:**
 
