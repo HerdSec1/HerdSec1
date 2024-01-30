@@ -43,7 +43,7 @@
          - **AWS:** AWS Certified Security
          - **Google:** Google Cloud Certified - Professional Security Engineer
        
-   - **Note**: (A great resource for Cyber Security certifications is [Paul Jerimy's Cyber Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/))
+   - **Note**: (A great resource for Cyber Security certifications is [Paul Jerimy's Cyber Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
 ### 3. **Skills Development:**
 
