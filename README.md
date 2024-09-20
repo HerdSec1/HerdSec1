@@ -1,15 +1,15 @@
 <h1 align="center">Hello, I'm Kyle Reis</h1>
-<h3 align="center">A passionate Cybersecurity student in West Virginia.</h3>
+<h3 align="center">A Healthcare Field Technician and a Cybersecurity student in West Virginia.</h3>
 
 - 🔭 I’m currently working in a **Help Desk role**
 
-- 📜 I'm certified in **CompTIA Security+**
+- 📜 I'm certified in **CompTIA Security+** and **CompTIA Cloud+**.
 
-- 🌱 I’m currently learning **Cloud Security concepts**
+- 🌱 I’m currently learning **SQL**.
 
-- 👯 I’m looking to collaborate on **Security tool development and Bug Bounties.**
+- 👯 I’m looking to collaborate on **Any Projects**.
 
-- 🤝 I’m looking for help with **Breaking into Cyber.**
+- 🤝 I’m looking for help with **Breaking into Data Analytics**.
 
 - 📫 How to reach me **kylereis20@gmail.com**
 
