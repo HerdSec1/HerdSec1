@@ -13,5 +13,8 @@ Discord communities:
 - [TCM Security](https://discord.gg/X5VfSack)
 
 
-## Build a Professional Online Presence:
-[My LinkedIn](https://www.linkedin.com/in/kyle-reis-a27ab6197/)
+## Professional Presence
+
+- Active on LinkedIn for industry engagement
+- Participate in cybersecurity communities and discussions
+- Attend local conferences and events

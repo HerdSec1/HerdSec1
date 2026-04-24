@@ -1,16 +1,18 @@
-# **Certifications:**
-## Foundational Certifications:
-Certifications I currently hold: 
-- **(ISC)2 Certified in Cybersecurity (CC)**
-- **CompTIA Security+**
+# Certifications
 
-## Specialized Certifications:
-Certifications I plan to take next:
-- **CompTIA Cloud+**
-    - testing at the end of February
-- **(ISC)2 Cloud Security: Certified Cloud Security Professional (CCSP**)
-    - testing in March
+## Current Certifications
 
-## Vendor-Specific Certifications:
-Vendors I plan to specialize in:
-- **AWS**
+- (ISC)² Certified in Cybersecurity (CC)
+- CompTIA Security+
+- CompTIA Cloud+
+- CompTIA Advanced Security Practitioner (CASP+)
+
+## In Progress / Next Certification
+
+- AHIMA Certified Health Data Analyst (CHDA)
+
+## Focus Areas
+
+- Healthcare Data Analytics
+- Governance, Risk, and Compliance (GRC)
+- Security and Data Integrity

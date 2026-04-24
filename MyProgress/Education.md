@@ -1,7 +1,16 @@
-# **Education:**
+# Education
 
-## Bachelor's Degree:
-I am in progress to graduate in the summer of 2025 with a Bachelor's in Cyber Security from Champlain College with a 3.9 GPA.
+## Bachelor’s Degree
+
+B.S. in Cybersecurity  
+Champlain College  
+Graduated 2026  
+
+Focused on:
+- Security architecture
+- Risk management and compliance
+- Network security
+- Secure system design
 
 ## Online Courses and Tutorials:
 ### Udemy Courses

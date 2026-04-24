@@ -1,4 +1,5 @@
 # **Continuous Learning:**
+This section highlights the resources I actively use to stay current with cybersecurity trends, threats, and technologies.
 
 ## Staying Informed:
 ### Blogs

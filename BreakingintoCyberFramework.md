@@ -1,4 +1,16 @@
 # **Breaking into Cyber Framework**
+
+## Personal Framework
+
+This framework represents the structured approach I followed while transitioning into cybersecurity.
+
+It reflects practical experience across:
+- Education
+- Certifications
+- Hands-on labs
+- IT support experience
+- Continuous learning
+
 ## Summary:
 [1. Education](https://github.com/Huntingrabbit/huntingrabbit/blob/main/BreakingintoCyberFramework.md#1-education)
 

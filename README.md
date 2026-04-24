@@ -1,21 +1,43 @@
 <h1 align="center">Hello, I'm Kyle Reis</h1>
-<h3 align="center">A Healthcare Field Technician and a Cybersecurity student in West Virginia.</h3>
 
-- 🔭 I’m currently working in a **Help Desk role**
+<h3 align="center">Cybersecurity Graduate | Healthcare IT Analyst | Security+ · Cloud+ · CASP+</h3>
 
-- 📜 I'm certified in **CompTIA Security+** and **CompTIA Cloud+**.
+I am a healthcare IT professional based in West Virginia with a background in user support, clinical systems, cybersecurity, and data-driven application development.
 
-- 🌱 I’m currently learning **SQL**.
+- 🏥 I currently work in healthcare IT, supporting operational and clinical systems.
+- 🎓 B.S. in Cybersecurity from Champlain College.
+- 📜 Certified in CompTIA Security+, Cloud+, and CASP+.
+- 🐍 Experience building Python and SQL-based tools.
+- 🔐 Built PerDocMan, a local-first personal document management system with authentication, audit logging, sensitivity classification, and SHA-256 data integrity controls.
+- 📊 Interested in cybersecurity, GRC, healthcare data systems, SQL, and analytics.
+- 🧾 Currently pursuing the AHIMA Certified Health Data Analyst (CHDA) certification
+- 📫 Contact: **herdsec@proton.me**
 
-- 👯 I’m looking to collaborate on **Any Projects**.
+---
 
-- 🤝 I’m looking for help with **Breaking into Data Analytics**.
+## Featured Project
 
-- 📫 How to reach me **kylereis20@gmail.com**
+### PerDocMan — Personal Document Manager
 
-I am following my own Cyber Security framework for getting into the industry. You can find that here:
-<h3><a href="https://github.com/Herdsec1/Herdsec1/blob/main/BreakingintoCyberFramework.md</a></h3>
+A local-first document management system built with Python and SQLite.
 
-You can find my progress here:
-<h3><a href="https://github.com/Huntingrabbit/huntingrabbit/tree/main/MyProgress">My Progress</a></h3>
+Key features:
+- PDF ingestion and metadata storage
+- Keyword search
+- SHA-256 duplicate detection
+- Password authentication
+- Session timeout
+- Audit logging
+- Sensitivity-based document warnings
 
+[View Project](https://github.com/HerdSec1/Personal-document-management)
+
+---
+
+## Focus Areas
+
+- Cybersecurity and GRC foundations
+- Healthcare IT systems
+- Data integrity and auditability
+- Python, SQL, and local-first system design
+- Secure document and information management
