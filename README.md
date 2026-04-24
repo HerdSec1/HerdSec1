@@ -1,43 +1,92 @@
-<h1 align="center">Hello, I'm Kyle Reis</h1>
+<h1 align="center">Kyle Reis</h1>
 
-<h3 align="center">Cybersecurity Graduate | Healthcare IT Analyst | Security+ · Cloud+ · CASP+</h3>
-
-I am a healthcare IT professional based in West Virginia with a background in user support, clinical systems, cybersecurity, and data-driven application development.
-
-- 🏥 I currently work in healthcare IT, supporting operational and clinical systems.
-- 🎓 B.S. in Cybersecurity from Champlain College.
-- 📜 Certified in CompTIA Security+, Cloud+, and CASP+.
-- 🐍 Experience building Python and SQL-based tools.
-- 🔐 Built PerDocMan, a local-first personal document management system with authentication, audit logging, sensitivity classification, and SHA-256 data integrity controls.
-- 📊 Interested in cybersecurity, GRC, healthcare data systems, SQL, and analytics.
-- 🧾 Currently pursuing the AHIMA Certified Health Data Analyst (CHDA) certification
-- 📫 Contact: **herdsec@proton.me**
+<h3 align="center">Healthcare IT Analyst | Data & Risk-Focused | Security+ · Cloud+ · CASP+</h3>
 
 ---
 
-## Featured Project
+## About Me
 
-### PerDocMan — Personal Document Manager
+I am a Healthcare IT Analyst focused on improving visibility into clinical systems through data analysis, documentation, and security-conscious design.
 
-A local-first document management system built with Python and SQLite.
+My work centers on understanding how healthcare systems are actually used — identifying gaps in workflows, improving data integrity, and supporting auditing and compliance through structured analysis.
 
-Key features:
-- PDF ingestion and metadata storage
-- Keyword search
-- SHA-256 duplicate detection
-- Password authentication
-- Session timeout
-- Audit logging
-- Sensitivity-based document warnings
-
-[View Project](https://github.com/HerdSec1/Personal-document-management)
+I operate at the intersection of:
+- Healthcare systems (clinical + operational workflows)
+- Data analysis (SQL, Python, structured data)
+- Security and risk awareness (GRC mindset)
 
 ---
 
-## Focus Areas
+## What I Do
 
-- Cybersecurity and GRC foundations
-- Healthcare IT systems
-- Data integrity and auditability
-- Python, SQL, and local-first system design
-- Secure document and information management
+- Analyze structured data to understand system behavior and workflow patterns  
+- Develop query-driven approaches to evaluate data integrity and usage consistency  
+- Design documentation systems that improve clarity and reduce operational friction  
+- Apply a security and compliance lens to healthcare system workflows  
+
+---
+
+## Featured Work
+
+### 🔐 PerDocMan — Secure Document Management System  
+A local-first document management system built with Python and SQLite, focused on data integrity and controlled access.
+
+**Key Capabilities:**
+- PDF ingestion and metadata indexing  
+- Keyword-based document retrieval  
+- SHA-256 duplicate detection  
+- Password authentication and session management  
+- Audit logging for access tracking  
+- Sensitivity-based document classification  
+
+🔗 https://github.com/HerdSec1/Personal-document-management
+
+---
+
+## Applied Focus Areas
+
+- Clinical documentation workflows and system usage visibility  
+- Data integrity, validation, and auditability  
+- Healthcare analytics and reporting logic  
+- Security and governance fundamentals (GRC)  
+- Local-first and privacy-focused system design  
+
+---
+
+## Current Direction
+
+I am actively building toward roles in:
+
+- Healthcare Data Analytics  
+- Cybersecurity / GRC  
+- Clinical Systems Analysis  
+
+with a focus on bridging **data, workflows, and risk** within healthcare environments.
+
+---
+
+## Certifications
+
+- CompTIA Security+  
+- CompTIA Cloud+  
+- CompTIA CASP+  
+
+📌 Currently pursuing: AHIMA Certified Health Data Analyst (CHDA)
+
+---
+
+## Professional Approach
+
+I approach systems as layered environments:
+
+- **Data** → What is being recorded  
+- **Workflow** → How it is used  
+- **Risk** → Where breakdowns occur  
+
+My goal is to make system behavior measurable, visible, and auditable.
+
+---
+
+## Contact
+
+📫 herdsec@proton.me
